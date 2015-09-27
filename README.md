@@ -2,10 +2,6 @@
 Make an efficient memory allocator from a basic allocator based on implicit free list.
 
 
-Copy all the files in lab folder to a protected directory in which you plan to do the work.
-
-Type you name and email address in the header comment at the top of mm.c.
-
 Type the command make to compile and link a basic memory allocator, the support routines, and the test driver. This basic memory allocator is based on an
 implicit free list, first fit placement, and boundary tag coalescing.
 
